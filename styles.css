@@ -40,18 +40,33 @@ ul {
     padding-bottom: 120px;
 }
 
-.hero-main {
+header {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
 }
 
-.hero-sec {
+p {
     font-size: 18px;
     color: #e5e7eb;
 }
 
+.hero-img img{
+    width: 500px;
+    height: 350px;
+    padding-right: 200px;
+}
+
 .hero {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.hero-text {
+    display: flex;
     flex-direction: column;
+    margin-right: 0px;
+    padding-left: 200px;
 }
