@@ -1,0 +1,13 @@
+.header,
+.hero {
+    background-color: #1F2937;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-weight: 24px;
+}
+
+.links {
+    text-decoration: none;
+}
