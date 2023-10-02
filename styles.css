@@ -150,3 +150,42 @@ h2 {
     font-size: 22px;
     margin-left: 550px;
 }
+
+/* Section Four */
+.section_four {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.four-box {
+    display: flex;
+    background: #3882F6;
+    align-items: center;
+    padding: 40px 100px;
+    border: none;
+    border-radius: 10px;
+}
+
+h4 {
+    color: #F9FAF8;
+    font-size: 20px;
+}
+
+.signup-subtext {
+    color: #E5E7EB;
+    font-weight: lighter;
+}
+
+.signup-button {
+    background: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 14px;
+    width: 110px;
+    height: 30px;
+    border: 2px solid #F9FAF8;
+    border-radius: 10px;
+    margin-left: 150px;
+}
