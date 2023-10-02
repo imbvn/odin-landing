@@ -126,6 +126,8 @@ h2 {
 
 .img-subtext {
     text-align: center;
+    margin-top: 10px;
+    color: #1F2937;
 }
 
 /* Section Three */
@@ -188,4 +190,18 @@ h4 {
     border: 2px solid #F9FAF8;
     border-radius: 10px;
     margin-left: 150px;
+}
+
+/* Footer */
+.footer {
+    background: #1F2937;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright {
+    color: #F9FAF8;
+    font-weight: lighter;
 }
